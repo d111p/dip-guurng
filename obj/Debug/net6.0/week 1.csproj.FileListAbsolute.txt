@@ -1,0 +1,15 @@
+E:\assignmentss\week 1\bin\Debug\net6.0\week 1.exe
+E:\assignmentss\week 1\bin\Debug\net6.0\week 1.deps.json
+E:\assignmentss\week 1\bin\Debug\net6.0\week 1.runtimeconfig.json
+E:\assignmentss\week 1\bin\Debug\net6.0\week 1.dll
+E:\assignmentss\week 1\bin\Debug\net6.0\week 1.pdb
+E:\assignmentss\week 1\obj\Debug\net6.0\week 1.csproj.AssemblyReference.cache
+E:\assignmentss\week 1\obj\Debug\net6.0\week 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\assignmentss\week 1\obj\Debug\net6.0\week 1.AssemblyInfoInputs.cache
+E:\assignmentss\week 1\obj\Debug\net6.0\week 1.AssemblyInfo.cs
+E:\assignmentss\week 1\obj\Debug\net6.0\week 1.csproj.CoreCompileInputs.cache
+E:\assignmentss\week 1\obj\Debug\net6.0\week 1.dll
+E:\assignmentss\week 1\obj\Debug\net6.0\refint\week 1.dll
+E:\assignmentss\week 1\obj\Debug\net6.0\week 1.pdb
+E:\assignmentss\week 1\obj\Debug\net6.0\week 1.genruntimeconfig.cache
+E:\assignmentss\week 1\obj\Debug\net6.0\ref\week 1.dll
